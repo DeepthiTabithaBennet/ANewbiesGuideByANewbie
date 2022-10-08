@@ -5,7 +5,7 @@
 ### Table Of Contents _(Click to Expand)_ :
 
 <details>
-<summary> Principal Component Analysis </summary>
+<summary> PRINCIPAL COMPONENT ANALYSIS (PCA) </summary>
 <p> 
      
   * Explanation - [Click Here!](https://medium.com/@DeepthiTabithaBennet/principal-component-analysis-a-newbies-guide-by-a-newbie-ab7419939e02)
