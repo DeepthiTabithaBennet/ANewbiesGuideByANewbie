@@ -1,4 +1,4 @@
-# MachineLearning
+# A Newbie's Guide, By A Newbie
 
 ## This repo contains all source code used in my [Medium](https://medium.com/@DeepthiTabithaBennet) blogs!
 
