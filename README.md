@@ -5,6 +5,19 @@
 ### Table Of Contents _(Click to Expand)_ :
 
 <details>
+<summary> BIAS-VARIANCE TRADEOFF </summary>
+<p> 
+     
+  * Explanation - [Click Here!](https://medium.com/@DeepthiTabithaBennet/the-bias-variance-tradeoff-a-newbies-guide-by-a-newbie-95fb03dbebcb)
+ 
+  * Source Code - [Click Here!](https://github.com/DeepthiTabithaBennet/ANewbiesGuideByANewbie/blob/main/BiasVarianceTradeoff.ipynb)
+ 
+</p>
+</details>
+
+
+
+<details>
 <summary> PRINCIPAL COMPONENT ANALYSIS (PCA) </summary>
 <p> 
      
