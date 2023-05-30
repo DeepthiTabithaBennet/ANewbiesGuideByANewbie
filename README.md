@@ -23,7 +23,7 @@
      
   * Explanation - [Click Here!](https://medium.com/@DeepthiTabithaBennet/principal-component-analysis-a-newbies-guide-by-a-newbie-ab7419939e02)
  
-  * Source Code - [Click Here!](https://github.com/DeepthiTabithaBennet/MachineLearning/blob/main/PCA.ipynb)
+  * Source Code - [Click Here!](https://github.com/DeepthiTabithaBennet/ANewbiesGuideByANewbie/blob/main/PCA.ipynb)
  
 </p>
 </details>
